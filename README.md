@@ -10,8 +10,8 @@ A complete MERN-stack task management application built as the capstone project 
 
 ## Live Demo
 
-- 🌐 **Frontend:** [Deployed on Vercel](https://your-app.vercel.app) ← update after deployment
-- ⚙️ **Backend API:** [Deployed on Render](https://your-api.onrender.com) ← update after deployment
+- 🌐 **Frontend:** [task-manager-two-weld-67.vercel.app](https://task-manager-two-weld-67.vercel.app)
+- ⚙️ **Backend API:** Deployed on Render (add URL here once Render is live)
 
 ## Features
 
