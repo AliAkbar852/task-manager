@@ -11,7 +11,13 @@ A complete MERN-stack task management application built as the capstone project 
 ## Live Demo
 
 - 🌐 **Frontend:** [task-manager-two-weld-67.vercel.app](https://task-manager-two-weld-67.vercel.app)
-- ⚙️ **Backend API:** Deployed on Render (add URL here once Render is live)
+- ⚙️ **Backend API:** [task-manager-o8yv.onrender.com](https://task-manager-o8yv.onrender.com)
+
+## App Preview
+
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="TaskFlow Pro Dashboard" width="800"/>
+</p>
 
 ## Features
 
